@@ -1,0 +1,6 @@
+appId: com.qazandoqafood
+---
+- launchApp #abrir o app
+
+- tapOn:
+    id: "password"
